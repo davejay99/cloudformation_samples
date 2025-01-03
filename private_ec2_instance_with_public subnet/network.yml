@@ -1,4 +1,4 @@
-# Network template:
+
 Resources:
   myVPC:
     Type: AWS::EC2::VPC
